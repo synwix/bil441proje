@@ -1,0 +1,1209 @@
+100 Deneme İstatistikleri:
+
+Boat:
+Genetic Algorithm (5x5) [Params: {'pop_size': 200, 'max_generations': 500, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0503 saniye
+  Medyan Bulma Süresi: 0.0392 saniye
+  Minimum Bulma Süresi: 0.0004 saniye
+  Maksimum Bulma Süresi: 0.2330 saniye
+  Varyans: 0.002095
+  Standart Sapma: 0.0458
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 200, 'max_generations': 500, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0704 saniye
+  Medyan Bulma Süresi: 0.0582 saniye
+  Minimum Bulma Süresi: 0.0015 saniye
+  Maksimum Bulma Süresi: 0.2660 saniye
+  Varyans: 0.002841
+  Standart Sapma: 0.0533
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 200, 'max_generations': 500, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0615 saniye
+  Medyan Bulma Süresi: 0.0430 saniye
+  Minimum Bulma Süresi: 0.0032 saniye
+  Maksimum Bulma Süresi: 0.2665 saniye
+  Varyans: 0.002796
+  Standart Sapma: 0.0529
+----------------------------------------
+Genetic Algorithm (5x5) [Params: {'pop_size': 300, 'max_generations': 500, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0338 saniye
+  Medyan Bulma Süresi: 0.0250 saniye
+  Minimum Bulma Süresi: 0.0011 saniye
+  Maksimum Bulma Süresi: 0.1367 saniye
+  Varyans: 0.000802
+  Standart Sapma: 0.0283
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 300, 'max_generations': 500, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0566 saniye
+  Medyan Bulma Süresi: 0.0466 saniye
+  Minimum Bulma Süresi: 0.0029 saniye
+  Maksimum Bulma Süresi: 0.2000 saniye
+  Varyans: 0.001760
+  Standart Sapma: 0.0419
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 300, 'max_generations': 500, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0482 saniye
+  Medyan Bulma Süresi: 0.0410 saniye
+  Minimum Bulma Süresi: 0.0028 saniye
+  Maksimum Bulma Süresi: 0.2121 saniye
+  Varyans: 0.001574
+  Standart Sapma: 0.0397
+----------------------------------------
+Genetic Algorithm (5x5) [Params: {'pop_size': 200, 'max_generations': 750, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0422 saniye
+  Medyan Bulma Süresi: 0.0250 saniye
+  Minimum Bulma Süresi: 0.0027 saniye
+  Maksimum Bulma Süresi: 0.2063 saniye
+  Varyans: 0.001636
+  Standart Sapma: 0.0405
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 200, 'max_generations': 750, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0645 saniye
+  Medyan Bulma Süresi: 0.0386 saniye
+  Minimum Bulma Süresi: 0.0017 saniye
+  Maksimum Bulma Süresi: 0.2840 saniye
+  Varyans: 0.003910
+  Standart Sapma: 0.0625
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 200, 'max_generations': 750, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0533 saniye
+  Medyan Bulma Süresi: 0.0420 saniye
+  Minimum Bulma Süresi: 0.0030 saniye
+  Maksimum Bulma Süresi: 0.2156 saniye
+  Varyans: 0.001846
+  Standart Sapma: 0.0430
+----------------------------------------
+Genetic Algorithm (5x5) [Params: {'pop_size': 200, 'max_generations': 500, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0364 saniye
+  Medyan Bulma Süresi: 0.0316 saniye
+  Minimum Bulma Süresi: 0.0004 saniye
+  Maksimum Bulma Süresi: 0.1139 saniye
+  Varyans: 0.000821
+  Standart Sapma: 0.0286
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 200, 'max_generations': 500, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0784 saniye
+  Medyan Bulma Süresi: 0.0654 saniye
+  Minimum Bulma Süresi: 0.0013 saniye
+  Maksimum Bulma Süresi: 0.3295 saniye
+  Varyans: 0.004208
+  Standart Sapma: 0.0649
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 200, 'max_generations': 500, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0655 saniye
+  Medyan Bulma Süresi: 0.0539 saniye
+  Minimum Bulma Süresi: 0.0030 saniye
+  Maksimum Bulma Süresi: 0.2734 saniye
+  Varyans: 0.002743
+  Standart Sapma: 0.0524
+----------------------------------------
+Genetic Algorithm (5x5) [Params: {'pop_size': 300, 'max_generations': 750, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0382 saniye
+  Medyan Bulma Süresi: 0.0297 saniye
+  Minimum Bulma Süresi: 0.0008 saniye
+  Maksimum Bulma Süresi: 0.1571 saniye
+  Varyans: 0.001150
+  Standart Sapma: 0.0339
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 300, 'max_generations': 750, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0670 saniye
+  Medyan Bulma Süresi: 0.0535 saniye
+  Minimum Bulma Süresi: 0.0008 saniye
+  Maksimum Bulma Süresi: 0.3548 saniye
+  Varyans: 0.003389
+  Standart Sapma: 0.0582
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 300, 'max_generations': 750, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0544 saniye
+  Medyan Bulma Süresi: 0.0449 saniye
+  Minimum Bulma Süresi: 0.0047 saniye
+  Maksimum Bulma Süresi: 0.3289 saniye
+  Varyans: 0.002291
+  Standart Sapma: 0.0479
+----------------------------------------
+Genetic Algorithm (5x5) [Params: {'pop_size': 300, 'max_generations': 500, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0319 saniye
+  Medyan Bulma Süresi: 0.0246 saniye
+  Minimum Bulma Süresi: 0.0005 saniye
+  Maksimum Bulma Süresi: 0.2332 saniye
+  Varyans: 0.001048
+  Standart Sapma: 0.0324
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 300, 'max_generations': 500, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0610 saniye
+  Medyan Bulma Süresi: 0.0470 saniye
+  Minimum Bulma Süresi: 0.0013 saniye
+  Maksimum Bulma Süresi: 0.3217 saniye
+  Varyans: 0.003214
+  Standart Sapma: 0.0567
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 300, 'max_generations': 500, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0527 saniye
+  Medyan Bulma Süresi: 0.0481 saniye
+  Minimum Bulma Süresi: 0.0028 saniye
+  Maksimum Bulma Süresi: 0.2008 saniye
+  Varyans: 0.001577
+  Standart Sapma: 0.0397
+----------------------------------------
+Genetic Algorithm (5x5) [Params: {'pop_size': 200, 'max_generations': 750, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0350 saniye
+  Medyan Bulma Süresi: 0.0289 saniye
+  Minimum Bulma Süresi: 0.0007 saniye
+  Maksimum Bulma Süresi: 0.1565 saniye
+  Varyans: 0.000869
+  Standart Sapma: 0.0295
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 200, 'max_generations': 750, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0690 saniye
+  Medyan Bulma Süresi: 0.0568 saniye
+  Minimum Bulma Süresi: 0.0030 saniye
+  Maksimum Bulma Süresi: 0.3028 saniye
+  Varyans: 0.003233
+  Standart Sapma: 0.0569
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 200, 'max_generations': 750, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0521 saniye
+  Medyan Bulma Süresi: 0.0445 saniye
+  Minimum Bulma Süresi: 0.0030 saniye
+  Maksimum Bulma Süresi: 0.1526 saniye
+  Varyans: 0.001401
+  Standart Sapma: 0.0374
+----------------------------------------
+Genetic Algorithm (5x5) [Params: {'pop_size': 300, 'max_generations': 750, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0391 saniye
+  Medyan Bulma Süresi: 0.0324 saniye
+  Minimum Bulma Süresi: 0.0009 saniye
+  Maksimum Bulma Süresi: 0.1391 saniye
+  Varyans: 0.000844
+  Standart Sapma: 0.0290
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 300, 'max_generations': 750, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0681 saniye
+  Medyan Bulma Süresi: 0.0504 saniye
+  Minimum Bulma Süresi: 0.0013 saniye
+  Maksimum Bulma Süresi: 0.4810 saniye
+  Varyans: 0.004343
+  Standart Sapma: 0.0659
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 300, 'max_generations': 750, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0530 saniye
+  Medyan Bulma Süresi: 0.0393 saniye
+  Minimum Bulma Süresi: 0.0028 saniye
+  Maksimum Bulma Süresi: 0.2515 saniye
+  Varyans: 0.002280
+  Standart Sapma: 0.0478
+----------------------------------------
+Genetic Algorithm (5x5) [Params: {'pop_size': 500, 'max_generations': 500, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0360 saniye
+  Medyan Bulma Süresi: 0.0250 saniye
+  Minimum Bulma Süresi: 0.0010 saniye
+  Maksimum Bulma Süresi: 0.1499 saniye
+  Varyans: 0.000852
+  Standart Sapma: 0.0292
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 500, 'max_generations': 500, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0590 saniye
+  Medyan Bulma Süresi: 0.0476 saniye
+  Minimum Bulma Süresi: 0.0013 saniye
+  Maksimum Bulma Süresi: 0.2401 saniye
+  Varyans: 0.002687
+  Standart Sapma: 0.0518
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 500, 'max_generations': 500, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0532 saniye
+  Medyan Bulma Süresi: 0.0402 saniye
+  Minimum Bulma Süresi: 0.0029 saniye
+  Maksimum Bulma Süresi: 0.2402 saniye
+  Varyans: 0.002085
+  Standart Sapma: 0.0457
+----------------------------------------
+Genetic Algorithm (5x5) [Params: {'pop_size': 500, 'max_generations': 750, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0313 saniye
+  Medyan Bulma Süresi: 0.0275 saniye
+  Minimum Bulma Süresi: 0.0004 saniye
+  Maksimum Bulma Süresi: 0.0872 saniye
+  Varyans: 0.000470
+  Standart Sapma: 0.0217
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 500, 'max_generations': 750, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0565 saniye
+  Medyan Bulma Süresi: 0.0427 saniye
+  Minimum Bulma Süresi: 0.0017 saniye
+  Maksimum Bulma Süresi: 0.2037 saniye
+  Varyans: 0.001934
+  Standart Sapma: 0.0440
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 500, 'max_generations': 750, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0609 saniye
+  Medyan Bulma Süresi: 0.0464 saniye
+  Minimum Bulma Süresi: 0.0028 saniye
+  Maksimum Bulma Süresi: 0.2324 saniye
+  Varyans: 0.002258
+  Standart Sapma: 0.0475
+----------------------------------------
+
+Block Cluster:
+Genetic Algorithm (5x5) [Params: {'pop_size': 200, 'max_generations': 500, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 1.3748 saniye
+  Medyan Bulma Süresi: 1.0650 saniye
+  Minimum Bulma Süresi: 0.0077 saniye
+  Maksimum Bulma Süresi: 5.9835 saniye
+  Varyans: 1.342271
+  Standart Sapma: 1.1586
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 200, 'max_generations': 500, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 1.0250 saniye
+  Medyan Bulma Süresi: 0.8971 saniye
+  Minimum Bulma Süresi: 0.0107 saniye
+  Maksimum Bulma Süresi: 3.2312 saniye
+  Varyans: 0.551340
+  Standart Sapma: 0.7425
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 200, 'max_generations': 500, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.6643 saniye
+  Medyan Bulma Süresi: 0.5381 saniye
+  Minimum Bulma Süresi: 0.0181 saniye
+  Maksimum Bulma Süresi: 2.1775 saniye
+  Varyans: 0.234799
+  Standart Sapma: 0.4846
+----------------------------------------
+Genetic Algorithm (5x5) [Params: {'pop_size': 300, 'max_generations': 500, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 1.3312 saniye
+  Medyan Bulma Süresi: 1.0553 saniye
+  Minimum Bulma Süresi: 0.0208 saniye
+  Maksimum Bulma Süresi: 5.2413 saniye
+  Varyans: 1.227509
+  Standart Sapma: 1.1079
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 300, 'max_generations': 500, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 1.1138 saniye
+  Medyan Bulma Süresi: 1.0314 saniye
+  Minimum Bulma Süresi: 0.0035 saniye
+  Maksimum Bulma Süresi: 2.7592 saniye
+  Varyans: 0.552389
+  Standart Sapma: 0.7432
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 300, 'max_generations': 500, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.5358 saniye
+  Medyan Bulma Süresi: 0.4447 saniye
+  Minimum Bulma Süresi: 0.0143 saniye
+  Maksimum Bulma Süresi: 2.3391 saniye
+  Varyans: 0.173636
+  Standart Sapma: 0.4167
+----------------------------------------
+Genetic Algorithm (5x5) [Params: {'pop_size': 200, 'max_generations': 750, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 1.2979 saniye
+  Medyan Bulma Süresi: 1.0048 saniye
+  Minimum Bulma Süresi: 0.0866 saniye
+  Maksimum Bulma Süresi: 4.8244 saniye
+  Varyans: 1.236506
+  Standart Sapma: 1.1120
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 200, 'max_generations': 750, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.9264 saniye
+  Medyan Bulma Süresi: 0.6717 saniye
+  Minimum Bulma Süresi: 0.0183 saniye
+  Maksimum Bulma Süresi: 6.9431 saniye
+  Varyans: 0.942955
+  Standart Sapma: 0.9711
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 200, 'max_generations': 750, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.6136 saniye
+  Medyan Bulma Süresi: 0.4737 saniye
+  Minimum Bulma Süresi: 0.0054 saniye
+  Maksimum Bulma Süresi: 2.7245 saniye
+  Varyans: 0.323982
+  Standart Sapma: 0.5692
+----------------------------------------
+Genetic Algorithm (5x5) [Params: {'pop_size': 200, 'max_generations': 500, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 1.3063 saniye
+  Medyan Bulma Süresi: 1.0412 saniye
+  Minimum Bulma Süresi: 0.0115 saniye
+  Maksimum Bulma Süresi: 6.5038 saniye
+  Varyans: 1.325715
+  Standart Sapma: 1.1514
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 200, 'max_generations': 500, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.9646 saniye
+  Medyan Bulma Süresi: 0.7324 saniye
+  Minimum Bulma Süresi: 0.0034 saniye
+  Maksimum Bulma Süresi: 3.4059 saniye
+  Varyans: 0.530079
+  Standart Sapma: 0.7281
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 200, 'max_generations': 500, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.6693 saniye
+  Medyan Bulma Süresi: 0.5398 saniye
+  Minimum Bulma Süresi: 0.0185 saniye
+  Maksimum Bulma Süresi: 3.3953 saniye
+  Varyans: 0.262852
+  Standart Sapma: 0.5127
+----------------------------------------
+Genetic Algorithm (5x5) [Params: {'pop_size': 300, 'max_generations': 750, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 1.3981 saniye
+  Medyan Bulma Süresi: 1.1286 saniye
+  Minimum Bulma Süresi: 0.0161 saniye
+  Maksimum Bulma Süresi: 5.7809 saniye
+  Varyans: 1.375425
+  Standart Sapma: 1.1728
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 300, 'max_generations': 750, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.8916 saniye
+  Medyan Bulma Süresi: 0.7221 saniye
+  Minimum Bulma Süresi: 0.0014 saniye
+  Maksimum Bulma Süresi: 3.8293 saniye
+  Varyans: 0.536880
+  Standart Sapma: 0.7327
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 300, 'max_generations': 750, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.6809 saniye
+  Medyan Bulma Süresi: 0.5830 saniye
+  Minimum Bulma Süresi: 0.0144 saniye
+  Maksimum Bulma Süresi: 2.5952 saniye
+  Varyans: 0.273773
+  Standart Sapma: 0.5232
+----------------------------------------
+Genetic Algorithm (5x5) [Params: {'pop_size': 300, 'max_generations': 500, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 1.3137 saniye
+  Medyan Bulma Süresi: 1.0366 saniye
+  Minimum Bulma Süresi: 0.0330 saniye
+  Maksimum Bulma Süresi: 5.5848 saniye
+  Varyans: 1.333885
+  Standart Sapma: 1.1549
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 300, 'max_generations': 500, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.8199 saniye
+  Medyan Bulma Süresi: 0.6666 saniye
+  Minimum Bulma Süresi: 0.0076 saniye
+  Maksimum Bulma Süresi: 2.5550 saniye
+  Varyans: 0.430329
+  Standart Sapma: 0.6560
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 300, 'max_generations': 500, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.8055 saniye
+  Medyan Bulma Süresi: 0.6136 saniye
+  Minimum Bulma Süresi: 0.0030 saniye
+  Maksimum Bulma Süresi: 3.1605 saniye
+  Varyans: 0.425446
+  Standart Sapma: 0.6523
+----------------------------------------
+Genetic Algorithm (5x5) [Params: {'pop_size': 200, 'max_generations': 750, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 1.1747 saniye
+  Medyan Bulma Süresi: 0.9941 saniye
+  Minimum Bulma Süresi: 0.0039 saniye
+  Maksimum Bulma Süresi: 5.3643 saniye
+  Varyans: 1.118369
+  Standart Sapma: 1.0575
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 200, 'max_generations': 750, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.9997 saniye
+  Medyan Bulma Süresi: 0.8271 saniye
+  Minimum Bulma Süresi: 0.0125 saniye
+  Maksimum Bulma Süresi: 3.9988 saniye
+  Varyans: 0.678750
+  Standart Sapma: 0.8239
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 200, 'max_generations': 750, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.6381 saniye
+  Medyan Bulma Süresi: 0.5110 saniye
+  Minimum Bulma Süresi: 0.0050 saniye
+  Maksimum Bulma Süresi: 2.5717 saniye
+  Varyans: 0.344351
+  Standart Sapma: 0.5868
+----------------------------------------
+Genetic Algorithm (5x5) [Params: {'pop_size': 300, 'max_generations': 750, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 1.1816 saniye
+  Medyan Bulma Süresi: 1.0079 saniye
+  Minimum Bulma Süresi: 0.0650 saniye
+  Maksimum Bulma Süresi: 4.3071 saniye
+  Varyans: 0.903703
+  Standart Sapma: 0.9506
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 300, 'max_generations': 750, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 1.1740 saniye
+  Medyan Bulma Süresi: 0.8982 saniye
+  Minimum Bulma Süresi: 0.0247 saniye
+  Maksimum Bulma Süresi: 4.2546 saniye
+  Varyans: 0.865212
+  Standart Sapma: 0.9302
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 300, 'max_generations': 750, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.6617 saniye
+  Medyan Bulma Süresi: 0.4610 saniye
+  Minimum Bulma Süresi: 0.0144 saniye
+  Maksimum Bulma Süresi: 3.5630 saniye
+  Varyans: 0.444817
+  Standart Sapma: 0.6669
+----------------------------------------
+Genetic Algorithm (5x5) [Params: {'pop_size': 500, 'max_generations': 500, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 1.2888 saniye
+  Medyan Bulma Süresi: 1.0740 saniye
+  Minimum Bulma Süresi: 0.0114 saniye
+  Maksimum Bulma Süresi: 5.2424 saniye
+  Varyans: 1.102513
+  Standart Sapma: 1.0500
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 500, 'max_generations': 500, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 1.0849 saniye
+  Medyan Bulma Süresi: 0.9039 saniye
+  Minimum Bulma Süresi: 0.0053 saniye
+  Maksimum Bulma Süresi: 3.6274 saniye
+  Varyans: 0.759037
+  Standart Sapma: 0.8712
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 500, 'max_generations': 500, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.6691 saniye
+  Medyan Bulma Süresi: 0.4936 saniye
+  Minimum Bulma Süresi: 0.0106 saniye
+  Maksimum Bulma Süresi: 3.9616 saniye
+  Varyans: 0.355516
+  Standart Sapma: 0.5963
+----------------------------------------
+Genetic Algorithm (5x5) [Params: {'pop_size': 500, 'max_generations': 750, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 1.3487 saniye
+  Medyan Bulma Süresi: 1.0770 saniye
+  Minimum Bulma Süresi: 0.0079 saniye
+  Maksimum Bulma Süresi: 4.9936 saniye
+  Varyans: 1.142125
+  Standart Sapma: 1.0687
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 500, 'max_generations': 750, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.9238 saniye
+  Medyan Bulma Süresi: 0.7500 saniye
+  Minimum Bulma Süresi: 0.0046 saniye
+  Maksimum Bulma Süresi: 4.0358 saniye
+  Varyans: 0.683940
+  Standart Sapma: 0.8270
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 500, 'max_generations': 750, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.6223 saniye
+  Medyan Bulma Süresi: 0.5093 saniye
+  Minimum Bulma Süresi: 0.0031 saniye
+  Maksimum Bulma Süresi: 2.6081 saniye
+  Varyans: 0.275935
+  Standart Sapma: 0.5253
+----------------------------------------
+
+Glider:
+Genetic Algorithm (5x5) [Params: {'pop_size': 200, 'max_generations': 500, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.1091 saniye
+  Medyan Bulma Süresi: 0.0931 saniye
+  Minimum Bulma Süresi: 0.0012 saniye
+  Maksimum Bulma Süresi: 0.3674 saniye
+  Varyans: 0.005695
+  Standart Sapma: 0.0755
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 200, 'max_generations': 500, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0514 saniye
+  Medyan Bulma Süresi: 0.0396 saniye
+  Minimum Bulma Süresi: 0.0008 saniye
+  Maksimum Bulma Süresi: 0.2070 saniye
+  Varyans: 0.001962
+  Standart Sapma: 0.0443
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 200, 'max_generations': 500, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0395 saniye
+  Medyan Bulma Süresi: 0.0287 saniye
+  Minimum Bulma Süresi: 0.0039 saniye
+  Maksimum Bulma Süresi: 0.1600 saniye
+  Varyans: 0.001046
+  Standart Sapma: 0.0323
+----------------------------------------
+Genetic Algorithm (5x5) [Params: {'pop_size': 300, 'max_generations': 500, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0958 saniye
+  Medyan Bulma Süresi: 0.0780 saniye
+  Minimum Bulma Süresi: 0.0014 saniye
+  Maksimum Bulma Süresi: 0.3591 saniye
+  Varyans: 0.006942
+  Standart Sapma: 0.0833
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 300, 'max_generations': 500, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0503 saniye
+  Medyan Bulma Süresi: 0.0366 saniye
+  Minimum Bulma Süresi: 0.0014 saniye
+  Maksimum Bulma Süresi: 0.2036 saniye
+  Varyans: 0.001914
+  Standart Sapma: 0.0437
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 300, 'max_generations': 500, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0425 saniye
+  Medyan Bulma Süresi: 0.0347 saniye
+  Minimum Bulma Süresi: 0.0027 saniye
+  Maksimum Bulma Süresi: 0.1708 saniye
+  Varyans: 0.001067
+  Standart Sapma: 0.0327
+----------------------------------------
+Genetic Algorithm (5x5) [Params: {'pop_size': 200, 'max_generations': 750, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.1182 saniye
+  Medyan Bulma Süresi: 0.0993 saniye
+  Minimum Bulma Süresi: 0.0006 saniye
+  Maksimum Bulma Süresi: 0.5921 saniye
+  Varyans: 0.010471
+  Standart Sapma: 0.1023
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 200, 'max_generations': 750, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0395 saniye
+  Medyan Bulma Süresi: 0.0352 saniye
+  Minimum Bulma Süresi: 0.0008 saniye
+  Maksimum Bulma Süresi: 0.1350 saniye
+  Varyans: 0.000762
+  Standart Sapma: 0.0276
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 200, 'max_generations': 750, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0385 saniye
+  Medyan Bulma Süresi: 0.0293 saniye
+  Minimum Bulma Süresi: 0.0028 saniye
+  Maksimum Bulma Süresi: 0.1533 saniye
+  Varyans: 0.000887
+  Standart Sapma: 0.0298
+----------------------------------------
+Genetic Algorithm (5x5) [Params: {'pop_size': 200, 'max_generations': 500, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.1038 saniye
+  Medyan Bulma Süresi: 0.0922 saniye
+  Minimum Bulma Süresi: 0.0051 saniye
+  Maksimum Bulma Süresi: 0.5384 saniye
+  Varyans: 0.007360
+  Standart Sapma: 0.0858
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 200, 'max_generations': 500, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0437 saniye
+  Medyan Bulma Süresi: 0.0352 saniye
+  Minimum Bulma Süresi: 0.0008 saniye
+  Maksimum Bulma Süresi: 0.1672 saniye
+  Varyans: 0.001180
+  Standart Sapma: 0.0344
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 200, 'max_generations': 500, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0403 saniye
+  Medyan Bulma Süresi: 0.0331 saniye
+  Minimum Bulma Süresi: 0.0029 saniye
+  Maksimum Bulma Süresi: 0.1910 saniye
+  Varyans: 0.001154
+  Standart Sapma: 0.0340
+----------------------------------------
+Genetic Algorithm (5x5) [Params: {'pop_size': 300, 'max_generations': 750, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.1010 saniye
+  Medyan Bulma Süresi: 0.0817 saniye
+  Minimum Bulma Süresi: 0.0013 saniye
+  Maksimum Bulma Süresi: 0.3969 saniye
+  Varyans: 0.008001
+  Standart Sapma: 0.0895
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 300, 'max_generations': 750, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0442 saniye
+  Medyan Bulma Süresi: 0.0365 saniye
+  Minimum Bulma Süresi: 0.0007 saniye
+  Maksimum Bulma Süresi: 0.2625 saniye
+  Varyans: 0.001561
+  Standart Sapma: 0.0395
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 300, 'max_generations': 750, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0416 saniye
+  Medyan Bulma Süresi: 0.0386 saniye
+  Minimum Bulma Süresi: 0.0027 saniye
+  Maksimum Bulma Süresi: 0.1421 saniye
+  Varyans: 0.000845
+  Standart Sapma: 0.0291
+----------------------------------------
+Genetic Algorithm (5x5) [Params: {'pop_size': 300, 'max_generations': 500, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0939 saniye
+  Medyan Bulma Süresi: 0.0778 saniye
+  Minimum Bulma Süresi: 0.0028 saniye
+  Maksimum Bulma Süresi: 0.3120 saniye
+  Varyans: 0.005095
+  Standart Sapma: 0.0714
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 300, 'max_generations': 500, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0402 saniye
+  Medyan Bulma Süresi: 0.0309 saniye
+  Minimum Bulma Süresi: 0.0008 saniye
+  Maksimum Bulma Süresi: 0.1370 saniye
+  Varyans: 0.001010
+  Standart Sapma: 0.0318
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 300, 'max_generations': 500, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0349 saniye
+  Medyan Bulma Süresi: 0.0278 saniye
+  Minimum Bulma Süresi: 0.0028 saniye
+  Maksimum Bulma Süresi: 0.1451 saniye
+  Varyans: 0.000770
+  Standart Sapma: 0.0277
+----------------------------------------
+Genetic Algorithm (5x5) [Params: {'pop_size': 200, 'max_generations': 750, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.1101 saniye
+  Medyan Bulma Süresi: 0.0819 saniye
+  Minimum Bulma Süresi: 0.0008 saniye
+  Maksimum Bulma Süresi: 0.6836 saniye
+  Varyans: 0.011036
+  Standart Sapma: 0.1051
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 200, 'max_generations': 750, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0437 saniye
+  Medyan Bulma Süresi: 0.0309 saniye
+  Minimum Bulma Süresi: 0.0013 saniye
+  Maksimum Bulma Süresi: 0.1891 saniye
+  Varyans: 0.001238
+  Standart Sapma: 0.0352
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 200, 'max_generations': 750, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0294 saniye
+  Medyan Bulma Süresi: 0.0239 saniye
+  Minimum Bulma Süresi: 0.0031 saniye
+  Maksimum Bulma Süresi: 0.0937 saniye
+  Varyans: 0.000431
+  Standart Sapma: 0.0208
+----------------------------------------
+Genetic Algorithm (5x5) [Params: {'pop_size': 300, 'max_generations': 750, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.1062 saniye
+  Medyan Bulma Süresi: 0.0994 saniye
+  Minimum Bulma Süresi: 0.0005 saniye
+  Maksimum Bulma Süresi: 0.3875 saniye
+  Varyans: 0.005734
+  Standart Sapma: 0.0757
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 300, 'max_generations': 750, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0449 saniye
+  Medyan Bulma Süresi: 0.0411 saniye
+  Minimum Bulma Süresi: 0.0008 saniye
+  Maksimum Bulma Süresi: 0.1919 saniye
+  Varyans: 0.001110
+  Standart Sapma: 0.0333
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 300, 'max_generations': 750, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0371 saniye
+  Medyan Bulma Süresi: 0.0302 saniye
+  Minimum Bulma Süresi: 0.0029 saniye
+  Maksimum Bulma Süresi: 0.1291 saniye
+  Varyans: 0.000976
+  Standart Sapma: 0.0312
+----------------------------------------
+Genetic Algorithm (5x5) [Params: {'pop_size': 500, 'max_generations': 500, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0987 saniye
+  Medyan Bulma Süresi: 0.0834 saniye
+  Minimum Bulma Süresi: 0.0008 saniye
+  Maksimum Bulma Süresi: 0.4213 saniye
+  Varyans: 0.006313
+  Standart Sapma: 0.0795
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 500, 'max_generations': 500, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0557 saniye
+  Medyan Bulma Süresi: 0.0493 saniye
+  Minimum Bulma Süresi: 0.0013 saniye
+  Maksimum Bulma Süresi: 0.2557 saniye
+  Varyans: 0.001975
+  Standart Sapma: 0.0444
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 500, 'max_generations': 500, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0327 saniye
+  Medyan Bulma Süresi: 0.0239 saniye
+  Minimum Bulma Süresi: 0.0027 saniye
+  Maksimum Bulma Süresi: 0.1420 saniye
+  Varyans: 0.000917
+  Standart Sapma: 0.0303
+----------------------------------------
+Genetic Algorithm (5x5) [Params: {'pop_size': 500, 'max_generations': 750, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.1045 saniye
+  Medyan Bulma Süresi: 0.0811 saniye
+  Minimum Bulma Süresi: 0.0019 saniye
+  Maksimum Bulma Süresi: 0.3314 saniye
+  Varyans: 0.006451
+  Standart Sapma: 0.0803
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 500, 'max_generations': 750, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0505 saniye
+  Medyan Bulma Süresi: 0.0401 saniye
+  Minimum Bulma Süresi: 0.0013 saniye
+  Maksimum Bulma Süresi: 0.2533 saniye
+  Varyans: 0.001840
+  Standart Sapma: 0.0429
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 500, 'max_generations': 750, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0313 saniye
+  Medyan Bulma Süresi: 0.0239 saniye
+  Minimum Bulma Süresi: 0.0027 saniye
+  Maksimum Bulma Süresi: 0.1318 saniye
+  Varyans: 0.000657
+  Standart Sapma: 0.0256
+----------------------------------------
+
+Lightweight Spaceship:
+Genetic Algorithm (5x5) [Params: {'pop_size': 200, 'max_generations': 500, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 0
+  Bulamama Sayısı: 100
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0000 saniye
+  Medyan Bulma Süresi: 0.0000 saniye
+  Minimum Bulma Süresi: 0.0000 saniye
+  Maksimum Bulma Süresi: 0.0000 saniye
+  Varyans: 0.000000
+  Standart Sapma: 0.0000
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 200, 'max_generations': 500, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 72
+  Bulamama Sayısı: 28
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 39.9387 saniye
+  Medyan Bulma Süresi: 37.0941 saniye
+  Minimum Bulma Süresi: 0.5748 saniye
+  Maksimum Bulma Süresi: 97.6348 saniye
+  Varyans: 704.178108
+  Standart Sapma: 26.5364
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 200, 'max_generations': 500, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 38.9648 saniye
+  Medyan Bulma Süresi: 28.4747 saniye
+  Minimum Bulma Süresi: 0.2725 saniye
+  Maksimum Bulma Süresi: 201.6231 saniye
+  Varyans: 1340.952541
+  Standart Sapma: 36.6190
+----------------------------------------
+Genetic Algorithm (5x5) [Params: {'pop_size': 300, 'max_generations': 500, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 6
+  Bulamama Sayısı: 94
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 21.2937 saniye
+  Medyan Bulma Süresi: 24.6407 saniye
+  Minimum Bulma Süresi: 2.6104 saniye
+  Maksimum Bulma Süresi: 38.1071 saniye
+  Varyans: 202.175964
+  Standart Sapma: 14.2189
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 300, 'max_generations': 500, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 85
+  Bulamama Sayısı: 15
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 51.8826 saniye
+  Medyan Bulma Süresi: 51.6180 saniye
+  Minimum Bulma Süresi: 1.3677 saniye
+  Maksimum Bulma Süresi: 135.3083 saniye
+  Varyans: 1166.704997
+  Standart Sapma: 34.1571
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 300, 'max_generations': 500, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 51.3549 saniye
+  Medyan Bulma Süresi: 43.0532 saniye
+  Minimum Bulma Süresi: 0.7302 saniye
+  Maksimum Bulma Süresi: 206.2829 saniye
+  Varyans: 1810.486023
+  Standart Sapma: 42.5498
+----------------------------------------
+Genetic Algorithm (5x5) [Params: {'pop_size': 200, 'max_generations': 750, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 2
+  Bulamama Sayısı: 98
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 27.2743 saniye
+  Medyan Bulma Süresi: 27.2743 saniye
+  Minimum Bulma Süresi: 8.2311 saniye
+  Maksimum Bulma Süresi: 46.3175 saniye
+  Varyans: 362.643294
+  Standart Sapma: 19.0432
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 200, 'max_generations': 750, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 85
+  Bulamama Sayısı: 15
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 57.7486 saniye
+  Medyan Bulma Süresi: 58.2215 saniye
+  Minimum Bulma Süresi: 1.5432 saniye
+  Maksimum Bulma Süresi: 138.2733 saniye
+  Varyans: 1314.339170
+  Standart Sapma: 36.2538
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 200, 'max_generations': 750, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 46.0709 saniye
+  Medyan Bulma Süresi: 36.1524 saniye
+  Minimum Bulma Süresi: 1.1728 saniye
+  Maksimum Bulma Süresi: 156.3126 saniye
+  Varyans: 1186.930831
+  Standart Sapma: 34.4519
+----------------------------------------
+Genetic Algorithm (5x5) [Params: {'pop_size': 200, 'max_generations': 500, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 3
+  Bulamama Sayısı: 97
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 23.0312 saniye
+  Medyan Bulma Süresi: 25.8003 saniye
+  Minimum Bulma Süresi: 13.9116 saniye
+  Maksimum Bulma Süresi: 29.3816 saniye
+  Varyans: 43.720613
+  Standart Sapma: 6.6122
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 200, 'max_generations': 500, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 68
+  Bulamama Sayısı: 32
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 44.8769 saniye
+  Medyan Bulma Süresi: 41.0742 saniye
+  Minimum Bulma Süresi: 1.1992 saniye
+  Maksimum Bulma Süresi: 98.7441 saniye
+  Varyans: 680.295372
+  Standart Sapma: 26.0825
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 200, 'max_generations': 500, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 54.1338 saniye
+  Medyan Bulma Süresi: 47.0844 saniye
+  Minimum Bulma Süresi: 1.9046 saniye
+  Maksimum Bulma Süresi: 287.0812 saniye
+  Varyans: 1988.180026
+  Standart Sapma: 44.5890
+----------------------------------------
+Genetic Algorithm (5x5) [Params: {'pop_size': 300, 'max_generations': 750, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 6
+  Bulamama Sayısı: 94
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 43.8855 saniye
+  Medyan Bulma Süresi: 55.7143 saniye
+  Minimum Bulma Süresi: 9.6150 saniye
+  Maksimum Bulma Süresi: 69.9667 saniye
+  Varyans: 582.153098
+  Standart Sapma: 24.1278
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 300, 'max_generations': 750, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 94
+  Bulamama Sayısı: 6
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 69.8356 saniye
+  Medyan Bulma Süresi: 60.6894 saniye
+  Minimum Bulma Süresi: 4.1357 saniye
+  Maksimum Bulma Süresi: 195.2709 saniye
+  Varyans: 2395.380164
+  Standart Sapma: 48.9426
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 300, 'max_generations': 750, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 57.1022 saniye
+  Medyan Bulma Süresi: 42.6229 saniye
+  Minimum Bulma Süresi: 0.0736 saniye
+  Maksimum Bulma Süresi: 211.3050 saniye
+  Varyans: 1979.616456
+  Standart Sapma: 44.4929
+----------------------------------------
+Genetic Algorithm (5x5) [Params: {'pop_size': 300, 'max_generations': 500, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 0
+  Bulamama Sayısı: 100
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0000 saniye
+  Medyan Bulma Süresi: 0.0000 saniye
+  Minimum Bulma Süresi: 0.0000 saniye
+  Maksimum Bulma Süresi: 0.0000 saniye
+  Varyans: 0.000000
+  Standart Sapma: 0.0000
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 300, 'max_generations': 500, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 90
+  Bulamama Sayısı: 10
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 48.2183 saniye
+  Medyan Bulma Süresi: 39.3831 saniye
+  Minimum Bulma Süresi: 1.1811 saniye
+  Maksimum Bulma Süresi: 120.6670 saniye
+  Varyans: 1105.075927
+  Standart Sapma: 33.2427
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 300, 'max_generations': 500, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 52.7137 saniye
+  Medyan Bulma Süresi: 36.3971 saniye
+  Minimum Bulma Süresi: 0.5966 saniye
+  Maksimum Bulma Süresi: 203.4376 saniye
+  Varyans: 2076.155838
+  Standart Sapma: 45.5649
+----------------------------------------
+Genetic Algorithm (5x5) [Params: {'pop_size': 200, 'max_generations': 750, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 6
+  Bulamama Sayısı: 94
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 29.9655 saniye
+  Medyan Bulma Süresi: 34.5232 saniye
+  Minimum Bulma Süresi: 5.0896 saniye
+  Maksimum Bulma Süresi: 48.6539 saniye
+  Varyans: 196.391866
+  Standart Sapma: 14.0140
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 200, 'max_generations': 750, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 90
+  Bulamama Sayısı: 10
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 60.6019 saniye
+  Medyan Bulma Süresi: 49.7116 saniye
+  Minimum Bulma Süresi: 4.8157 saniye
+  Maksimum Bulma Süresi: 136.2811 saniye
+  Varyans: 1427.992142
+  Standart Sapma: 37.7888
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 200, 'max_generations': 750, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 46.2763 saniye
+  Medyan Bulma Süresi: 36.2680 saniye
+  Minimum Bulma Süresi: 0.1035 saniye
+  Maksimum Bulma Süresi: 165.9830 saniye
+  Varyans: 1339.686811
+  Standart Sapma: 36.6017
+----------------------------------------
+Genetic Algorithm (5x5) [Params: {'pop_size': 300, 'max_generations': 750, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 3
+  Bulamama Sayısı: 97
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 45.0018 saniye
+  Medyan Bulma Süresi: 43.2649 saniye
+  Minimum Bulma Süresi: 35.9244 saniye
+  Maksimum Bulma Süresi: 55.8162 saniye
+  Varyans: 67.455251
+  Standart Sapma: 8.2131
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 300, 'max_generations': 750, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 93
+  Bulamama Sayısı: 7
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 52.2321 saniye
+  Medyan Bulma Süresi: 44.1849 saniye
+  Minimum Bulma Süresi: 0.4988 saniye
+  Maksimum Bulma Süresi: 173.1882 saniye
+  Varyans: 1997.640944
+  Standart Sapma: 44.6950
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 300, 'max_generations': 750, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 46.3933 saniye
+  Medyan Bulma Süresi: 30.3398 saniye
+  Minimum Bulma Süresi: 0.4080 saniye
+  Maksimum Bulma Süresi: 205.9176 saniye
+  Varyans: 2043.671604
+  Standart Sapma: 45.2070
+----------------------------------------
+Genetic Algorithm (5x5) [Params: {'pop_size': 500, 'max_generations': 500, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 0
+  Bulamama Sayısı: 100
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0000 saniye
+  Medyan Bulma Süresi: 0.0000 saniye
+  Minimum Bulma Süresi: 0.0000 saniye
+  Maksimum Bulma Süresi: 0.0000 saniye
+  Varyans: 0.000000
+  Standart Sapma: 0.0000
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 500, 'max_generations': 500, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 98
+  Bulamama Sayısı: 2
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 69.2613 saniye
+  Medyan Bulma Süresi: 62.2348 saniye
+  Minimum Bulma Süresi: 1.0302 saniye
+  Maksimum Bulma Süresi: 198.4541 saniye
+  Varyans: 2024.565611
+  Standart Sapma: 44.9952
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 500, 'max_generations': 500, 'mutation_rate': 0.05}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 39.8888 saniye
+  Medyan Bulma Süresi: 35.8010 saniye
+  Minimum Bulma Süresi: 0.0298 saniye
+  Maksimum Bulma Süresi: 161.2099 saniye
+  Varyans: 1002.325891
+  Standart Sapma: 31.6595
+----------------------------------------
+Genetic Algorithm (5x5) [Params: {'pop_size': 500, 'max_generations': 750, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 4
+  Bulamama Sayısı: 96
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 56.6002 saniye
+  Medyan Bulma Süresi: 59.1400 saniye
+  Minimum Bulma Süresi: 24.5623 saniye
+  Maksimum Bulma Süresi: 83.5587 saniye
+  Varyans: 606.545318
+  Standart Sapma: 24.6281
+----------------------------------------
+Genetic Algorithm (10x10) [Params: {'pop_size': 500, 'max_generations': 750, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 73.6392 saniye
+  Medyan Bulma Süresi: 65.1929 saniye
+  Minimum Bulma Süresi: 0.2848 saniye
+  Maksimum Bulma Süresi: 271.3687 saniye
+  Varyans: 3248.745779
+  Standart Sapma: 56.9978
+----------------------------------------
+Genetic Algorithm (20x20) [Params: {'pop_size': 500, 'max_generations': 750, 'mutation_rate': 0.1}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 54.3435 saniye
+  Medyan Bulma Süresi: 49.0276 saniye
+  Minimum Bulma Süresi: 0.1067 saniye
+  Maksimum Bulma Süresi: 177.2194 saniye
+  Varyans: 1656.337500
+  Standart Sapma: 40.6981
+----------------------------------------

@@ -1,0 +1,1209 @@
+100 Deneme İstatistikleri:
+
+Boat:
+Simulated Annealing (5x5) [Params: {'max_iterations': 1000, 'initial_temp': 100, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 77
+  Bulamama Sayısı: 23
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0809 saniye
+  Medyan Bulma Süresi: 0.0471 saniye
+  Minimum Bulma Süresi: 0.0003 saniye
+  Maksimum Bulma Süresi: 0.4035 saniye
+  Varyans: 0.007761
+  Standart Sapma: 0.0881
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 1000, 'initial_temp': 100, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.1531 saniye
+  Medyan Bulma Süresi: 0.1203 saniye
+  Minimum Bulma Süresi: 0.0044 saniye
+  Maksimum Bulma Süresi: 0.8050 saniye
+  Varyans: 0.017390
+  Standart Sapma: 0.1319
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 1000, 'initial_temp': 100, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.4857 saniye
+  Medyan Bulma Süresi: 0.4034 saniye
+  Minimum Bulma Süresi: 0.0028 saniye
+  Maksimum Bulma Süresi: 2.1521 saniye
+  Varyans: 0.188294
+  Standart Sapma: 0.4339
+----------------------------------------
+Simulated Annealing (5x5) [Params: {'max_iterations': 1500, 'initial_temp': 100, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 81
+  Bulamama Sayısı: 19
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0958 saniye
+  Medyan Bulma Süresi: 0.0582 saniye
+  Minimum Bulma Süresi: 0.0037 saniye
+  Maksimum Bulma Süresi: 0.5867 saniye
+  Varyans: 0.013293
+  Standart Sapma: 0.1153
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 1500, 'initial_temp': 100, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.1944 saniye
+  Medyan Bulma Süresi: 0.1888 saniye
+  Minimum Bulma Süresi: 0.0008 saniye
+  Maksimum Bulma Süresi: 0.6594 saniye
+  Varyans: 0.017441
+  Standart Sapma: 0.1321
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 1500, 'initial_temp': 100, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.6242 saniye
+  Medyan Bulma Süresi: 0.5471 saniye
+  Minimum Bulma Süresi: 0.0025 saniye
+  Maksimum Bulma Süresi: 2.8070 saniye
+  Varyans: 0.226158
+  Standart Sapma: 0.4756
+----------------------------------------
+Simulated Annealing (5x5) [Params: {'max_iterations': 1000, 'initial_temp': 200, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 71
+  Bulamama Sayısı: 29
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0913 saniye
+  Medyan Bulma Süresi: 0.0606 saniye
+  Minimum Bulma Süresi: 0.0003 saniye
+  Maksimum Bulma Süresi: 0.4075 saniye
+  Varyans: 0.009209
+  Standart Sapma: 0.0960
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 1000, 'initial_temp': 200, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.1429 saniye
+  Medyan Bulma Süresi: 0.1134 saniye
+  Minimum Bulma Süresi: 0.0015 saniye
+  Maksimum Bulma Süresi: 0.5637 saniye
+  Varyans: 0.014823
+  Standart Sapma: 0.1217
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 1000, 'initial_temp': 200, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.6162 saniye
+  Medyan Bulma Süresi: 0.4576 saniye
+  Minimum Bulma Süresi: 0.0026 saniye
+  Maksimum Bulma Süresi: 3.1347 saniye
+  Varyans: 0.297851
+  Standart Sapma: 0.5458
+----------------------------------------
+Simulated Annealing (5x5) [Params: {'max_iterations': 1000, 'initial_temp': 100, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 75
+  Bulamama Sayısı: 25
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0714 saniye
+  Medyan Bulma Süresi: 0.0399 saniye
+  Minimum Bulma Süresi: 0.0007 saniye
+  Maksimum Bulma Süresi: 0.4104 saniye
+  Varyans: 0.006888
+  Standart Sapma: 0.0830
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 1000, 'initial_temp': 100, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.1677 saniye
+  Medyan Bulma Süresi: 0.1431 saniye
+  Minimum Bulma Süresi: 0.0014 saniye
+  Maksimum Bulma Süresi: 0.9616 saniye
+  Varyans: 0.021278
+  Standart Sapma: 0.1459
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 1000, 'initial_temp': 100, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.4862 saniye
+  Medyan Bulma Süresi: 0.3738 saniye
+  Minimum Bulma Süresi: 0.0025 saniye
+  Maksimum Bulma Süresi: 2.3838 saniye
+  Varyans: 0.198533
+  Standart Sapma: 0.4456
+----------------------------------------
+Simulated Annealing (5x5) [Params: {'max_iterations': 1500, 'initial_temp': 200, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 79
+  Bulamama Sayısı: 21
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0987 saniye
+  Medyan Bulma Süresi: 0.0621 saniye
+  Minimum Bulma Süresi: 0.0017 saniye
+  Maksimum Bulma Süresi: 0.5868 saniye
+  Varyans: 0.014815
+  Standart Sapma: 0.1217
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 1500, 'initial_temp': 200, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.1987 saniye
+  Medyan Bulma Süresi: 0.1719 saniye
+  Minimum Bulma Süresi: 0.0008 saniye
+  Maksimum Bulma Süresi: 0.6850 saniye
+  Varyans: 0.023395
+  Standart Sapma: 0.1530
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 1500, 'initial_temp': 200, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.5520 saniye
+  Medyan Bulma Süresi: 0.4162 saniye
+  Minimum Bulma Süresi: 0.0029 saniye
+  Maksimum Bulma Süresi: 3.1993 saniye
+  Varyans: 0.290759
+  Standart Sapma: 0.5392
+----------------------------------------
+Simulated Annealing (5x5) [Params: {'max_iterations': 1500, 'initial_temp': 100, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 73
+  Bulamama Sayısı: 27
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.1243 saniye
+  Medyan Bulma Süresi: 0.0696 saniye
+  Minimum Bulma Süresi: 0.0005 saniye
+  Maksimum Bulma Süresi: 0.5386 saniye
+  Varyans: 0.017774
+  Standart Sapma: 0.1333
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 1500, 'initial_temp': 100, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.1789 saniye
+  Medyan Bulma Süresi: 0.1475 saniye
+  Minimum Bulma Süresi: 0.0008 saniye
+  Maksimum Bulma Süresi: 0.7651 saniye
+  Varyans: 0.020926
+  Standart Sapma: 0.1447
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 1500, 'initial_temp': 100, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.4495 saniye
+  Medyan Bulma Süresi: 0.3137 saniye
+  Minimum Bulma Süresi: 0.0027 saniye
+  Maksimum Bulma Süresi: 2.0627 saniye
+  Varyans: 0.189627
+  Standart Sapma: 0.4355
+----------------------------------------
+Simulated Annealing (5x5) [Params: {'max_iterations': 1000, 'initial_temp': 200, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 77
+  Bulamama Sayısı: 23
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0892 saniye
+  Medyan Bulma Süresi: 0.0570 saniye
+  Minimum Bulma Süresi: 0.0003 saniye
+  Maksimum Bulma Süresi: 0.4548 saniye
+  Varyans: 0.009559
+  Standart Sapma: 0.0978
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 1000, 'initial_temp': 200, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.1812 saniye
+  Medyan Bulma Süresi: 0.1635 saniye
+  Minimum Bulma Süresi: 0.0012 saniye
+  Maksimum Bulma Süresi: 0.8004 saniye
+  Varyans: 0.020417
+  Standart Sapma: 0.1429
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 1000, 'initial_temp': 200, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.4934 saniye
+  Medyan Bulma Süresi: 0.4361 saniye
+  Minimum Bulma Süresi: 0.0029 saniye
+  Maksimum Bulma Süresi: 1.5668 saniye
+  Varyans: 0.146569
+  Standart Sapma: 0.3828
+----------------------------------------
+Simulated Annealing (5x5) [Params: {'max_iterations': 1500, 'initial_temp': 200, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 78
+  Bulamama Sayısı: 22
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0915 saniye
+  Medyan Bulma Süresi: 0.0432 saniye
+  Minimum Bulma Süresi: 0.0025 saniye
+  Maksimum Bulma Süresi: 0.6281 saniye
+  Varyans: 0.015539
+  Standart Sapma: 0.1247
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 1500, 'initial_temp': 200, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.1732 saniye
+  Medyan Bulma Süresi: 0.1348 saniye
+  Minimum Bulma Süresi: 0.0007 saniye
+  Maksimum Bulma Süresi: 0.7817 saniye
+  Varyans: 0.020811
+  Standart Sapma: 0.1443
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 1500, 'initial_temp': 200, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.4440 saniye
+  Medyan Bulma Süresi: 0.3672 saniye
+  Minimum Bulma Süresi: 0.0025 saniye
+  Maksimum Bulma Süresi: 2.1184 saniye
+  Varyans: 0.154608
+  Standart Sapma: 0.3932
+----------------------------------------
+Simulated Annealing (5x5) [Params: {'max_iterations': 500, 'initial_temp': 100, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 81
+  Bulamama Sayısı: 19
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0553 saniye
+  Medyan Bulma Süresi: 0.0462 saniye
+  Minimum Bulma Süresi: 0.0011 saniye
+  Maksimum Bulma Süresi: 0.2066 saniye
+  Varyans: 0.001810
+  Standart Sapma: 0.0425
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 500, 'initial_temp': 100, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.1717 saniye
+  Medyan Bulma Süresi: 0.1344 saniye
+  Minimum Bulma Süresi: 0.0062 saniye
+  Maksimum Bulma Süresi: 0.5942 saniye
+  Varyans: 0.017715
+  Standart Sapma: 0.1331
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 500, 'initial_temp': 100, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.5305 saniye
+  Medyan Bulma Süresi: 0.4460 saniye
+  Minimum Bulma Süresi: 0.0027 saniye
+  Maksimum Bulma Süresi: 1.6898 saniye
+  Varyans: 0.173863
+  Standart Sapma: 0.4170
+----------------------------------------
+Simulated Annealing (5x5) [Params: {'max_iterations': 2000, 'initial_temp': 300, 'cooling_rate': 0.85}]:
+  Bulma Sayısı: 73
+  Bulamama Sayısı: 27
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0794 saniye
+  Medyan Bulma Süresi: 0.0417 saniye
+  Minimum Bulma Süresi: 0.0005 saniye
+  Maksimum Bulma Süresi: 0.6925 saniye
+  Varyans: 0.012895
+  Standart Sapma: 0.1136
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 2000, 'initial_temp': 300, 'cooling_rate': 0.85}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.1807 saniye
+  Medyan Bulma Süresi: 0.1299 saniye
+  Minimum Bulma Süresi: 0.0008 saniye
+  Maksimum Bulma Süresi: 0.5962 saniye
+  Varyans: 0.021343
+  Standart Sapma: 0.1461
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 2000, 'initial_temp': 300, 'cooling_rate': 0.85}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.5651 saniye
+  Medyan Bulma Süresi: 0.4394 saniye
+  Minimum Bulma Süresi: 0.0043 saniye
+  Maksimum Bulma Süresi: 2.0679 saniye
+  Varyans: 0.236678
+  Standart Sapma: 0.4865
+----------------------------------------
+
+Block Cluster:
+Simulated Annealing (5x5) [Params: {'max_iterations': 1000, 'initial_temp': 100, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 2
+  Bulamama Sayısı: 98
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0139 saniye
+  Medyan Bulma Süresi: 0.0139 saniye
+  Minimum Bulma Süresi: 0.0067 saniye
+  Maksimum Bulma Süresi: 0.0212 saniye
+  Varyans: 0.000053
+  Standart Sapma: 0.0073
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 1000, 'initial_temp': 100, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 86
+  Bulamama Sayısı: 14
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.9254 saniye
+  Medyan Bulma Süresi: 0.8271 saniye
+  Minimum Bulma Süresi: 0.0241 saniye
+  Maksimum Bulma Süresi: 2.1712 saniye
+  Varyans: 0.264881
+  Standart Sapma: 0.5147
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 1000, 'initial_temp': 100, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 96
+  Bulamama Sayısı: 4
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 3.4716 saniye
+  Medyan Bulma Süresi: 3.2263 saniye
+  Minimum Bulma Süresi: 0.0058 saniye
+  Maksimum Bulma Süresi: 8.1220 saniye
+  Varyans: 3.879424
+  Standart Sapma: 1.9696
+----------------------------------------
+Simulated Annealing (5x5) [Params: {'max_iterations': 1500, 'initial_temp': 100, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 3
+  Bulamama Sayısı: 97
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0935 saniye
+  Medyan Bulma Süresi: 0.0774 saniye
+  Minimum Bulma Süresi: 0.0172 saniye
+  Maksimum Bulma Süresi: 0.1860 saniye
+  Varyans: 0.004878
+  Standart Sapma: 0.0698
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 1500, 'initial_temp': 100, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 91
+  Bulamama Sayısı: 9
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.9684 saniye
+  Medyan Bulma Süresi: 0.8437 saniye
+  Minimum Bulma Süresi: 0.0497 saniye
+  Maksimum Bulma Süresi: 2.4427 saniye
+  Varyans: 0.334374
+  Standart Sapma: 0.5783
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 1500, 'initial_temp': 100, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 99
+  Bulamama Sayısı: 1
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 3.5387 saniye
+  Medyan Bulma Süresi: 3.1951 saniye
+  Minimum Bulma Süresi: 0.0059 saniye
+  Maksimum Bulma Süresi: 11.1868 saniye
+  Varyans: 6.190804
+  Standart Sapma: 2.4881
+----------------------------------------
+Simulated Annealing (5x5) [Params: {'max_iterations': 1000, 'initial_temp': 200, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 3
+  Bulamama Sayısı: 97
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.2558 saniye
+  Medyan Bulma Süresi: 0.2359 saniye
+  Minimum Bulma Süresi: 0.1139 saniye
+  Maksimum Bulma Süresi: 0.4176 saniye
+  Varyans: 0.015569
+  Standart Sapma: 0.1248
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 1000, 'initial_temp': 200, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 84
+  Bulamama Sayısı: 16
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.8623 saniye
+  Medyan Bulma Süresi: 0.8560 saniye
+  Minimum Bulma Süresi: 0.0164 saniye
+  Maksimum Bulma Süresi: 1.6610 saniye
+  Varyans: 0.164300
+  Standart Sapma: 0.4053
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 1000, 'initial_temp': 200, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 97
+  Bulamama Sayısı: 3
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 3.0997 saniye
+  Medyan Bulma Süresi: 2.7574 saniye
+  Minimum Bulma Süresi: 0.0028 saniye
+  Maksimum Bulma Süresi: 8.1723 saniye
+  Varyans: 3.249124
+  Standart Sapma: 1.8025
+----------------------------------------
+Simulated Annealing (5x5) [Params: {'max_iterations': 1000, 'initial_temp': 100, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 3
+  Bulamama Sayısı: 97
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0244 saniye
+  Medyan Bulma Süresi: 0.0228 saniye
+  Minimum Bulma Süresi: 0.0031 saniye
+  Maksimum Bulma Süresi: 0.0473 saniye
+  Varyans: 0.000327
+  Standart Sapma: 0.0181
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 1000, 'initial_temp': 100, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 85
+  Bulamama Sayısı: 15
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.9544 saniye
+  Medyan Bulma Süresi: 0.8857 saniye
+  Minimum Bulma Süresi: 0.0466 saniye
+  Maksimum Bulma Süresi: 2.0619 saniye
+  Varyans: 0.323791
+  Standart Sapma: 0.5690
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 1000, 'initial_temp': 100, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 96
+  Bulamama Sayısı: 4
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 3.0692 saniye
+  Medyan Bulma Süresi: 2.8254 saniye
+  Minimum Bulma Süresi: 0.1620 saniye
+  Maksimum Bulma Süresi: 8.5623 saniye
+  Varyans: 3.553170
+  Standart Sapma: 1.8850
+----------------------------------------
+Simulated Annealing (5x5) [Params: {'max_iterations': 1500, 'initial_temp': 200, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 2
+  Bulamama Sayısı: 98
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.1139 saniye
+  Medyan Bulma Süresi: 0.1139 saniye
+  Minimum Bulma Süresi: 0.1113 saniye
+  Maksimum Bulma Süresi: 0.1164 saniye
+  Varyans: 0.000007
+  Standart Sapma: 0.0026
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 1500, 'initial_temp': 200, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 92
+  Bulamama Sayısı: 8
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 1.0508 saniye
+  Medyan Bulma Süresi: 0.8962 saniye
+  Minimum Bulma Süresi: 0.0131 saniye
+  Maksimum Bulma Süresi: 2.7978 saniye
+  Varyans: 0.441677
+  Standart Sapma: 0.6646
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 1500, 'initial_temp': 200, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 98
+  Bulamama Sayısı: 2
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 3.7222 saniye
+  Medyan Bulma Süresi: 3.2149 saniye
+  Minimum Bulma Süresi: 0.2367 saniye
+  Maksimum Bulma Süresi: 11.8244 saniye
+  Varyans: 6.113503
+  Standart Sapma: 2.4725
+----------------------------------------
+Simulated Annealing (5x5) [Params: {'max_iterations': 1500, 'initial_temp': 100, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 0
+  Bulamama Sayısı: 100
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0000 saniye
+  Medyan Bulma Süresi: 0.0000 saniye
+  Minimum Bulma Süresi: 0.0000 saniye
+  Maksimum Bulma Süresi: 0.0000 saniye
+  Varyans: 0.000000
+  Standart Sapma: 0.0000
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 1500, 'initial_temp': 100, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 93
+  Bulamama Sayısı: 7
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.6965 saniye
+  Medyan Bulma Süresi: 0.5393 saniye
+  Minimum Bulma Süresi: 0.0075 saniye
+  Maksimum Bulma Süresi: 2.0364 saniye
+  Varyans: 0.222705
+  Standart Sapma: 0.4719
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 1500, 'initial_temp': 100, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 3.3108 saniye
+  Medyan Bulma Süresi: 2.8326 saniye
+  Minimum Bulma Süresi: 0.0332 saniye
+  Maksimum Bulma Süresi: 11.8518 saniye
+  Varyans: 6.421284
+  Standart Sapma: 2.5340
+----------------------------------------
+Simulated Annealing (5x5) [Params: {'max_iterations': 1000, 'initial_temp': 200, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 3
+  Bulamama Sayısı: 97
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.3353 saniye
+  Medyan Bulma Süresi: 0.2287 saniye
+  Minimum Bulma Süresi: 0.1544 saniye
+  Maksimum Bulma Süresi: 0.6229 saniye
+  Varyans: 0.042260
+  Standart Sapma: 0.2056
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 1000, 'initial_temp': 200, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 87
+  Bulamama Sayısı: 13
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.7204 saniye
+  Medyan Bulma Süresi: 0.6566 saniye
+  Minimum Bulma Süresi: 0.0479 saniye
+  Maksimum Bulma Süresi: 1.9092 saniye
+  Varyans: 0.172068
+  Standart Sapma: 0.4148
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 1000, 'initial_temp': 200, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 97
+  Bulamama Sayısı: 3
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 3.0436 saniye
+  Medyan Bulma Süresi: 2.8225 saniye
+  Minimum Bulma Süresi: 0.0394 saniye
+  Maksimum Bulma Süresi: 7.6757 saniye
+  Varyans: 3.364224
+  Standart Sapma: 1.8342
+----------------------------------------
+Simulated Annealing (5x5) [Params: {'max_iterations': 1500, 'initial_temp': 200, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 5
+  Bulamama Sayısı: 95
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0395 saniye
+  Medyan Bulma Süresi: 0.0476 saniye
+  Minimum Bulma Süresi: 0.0189 saniye
+  Maksimum Bulma Süresi: 0.0544 saniye
+  Varyans: 0.000187
+  Standart Sapma: 0.0137
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 1500, 'initial_temp': 200, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 95
+  Bulamama Sayısı: 5
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.8801 saniye
+  Medyan Bulma Süresi: 0.7207 saniye
+  Minimum Bulma Süresi: 0.0197 saniye
+  Maksimum Bulma Süresi: 2.5797 saniye
+  Varyans: 0.347708
+  Standart Sapma: 0.5897
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 1500, 'initial_temp': 200, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 98
+  Bulamama Sayısı: 2
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 3.3648 saniye
+  Medyan Bulma Süresi: 2.5885 saniye
+  Minimum Bulma Süresi: 0.0064 saniye
+  Maksimum Bulma Süresi: 10.5008 saniye
+  Varyans: 6.205303
+  Standart Sapma: 2.4910
+----------------------------------------
+Simulated Annealing (5x5) [Params: {'max_iterations': 500, 'initial_temp': 100, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 3
+  Bulamama Sayısı: 97
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0847 saniye
+  Medyan Bulma Süresi: 0.0422 saniye
+  Minimum Bulma Süresi: 0.0396 saniye
+  Maksimum Bulma Süresi: 0.1724 saniye
+  Varyans: 0.003842
+  Standart Sapma: 0.0620
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 500, 'initial_temp': 100, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 59
+  Bulamama Sayısı: 41
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.7138 saniye
+  Medyan Bulma Süresi: 0.6423 saniye
+  Minimum Bulma Süresi: 0.1440 saniye
+  Maksimum Bulma Süresi: 1.2703 saniye
+  Varyans: 0.091074
+  Standart Sapma: 0.3018
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 500, 'initial_temp': 100, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 73
+  Bulamama Sayısı: 27
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 2.8527 saniye
+  Medyan Bulma Süresi: 2.9985 saniye
+  Minimum Bulma Süresi: 0.0350 saniye
+  Maksimum Bulma Süresi: 5.6525 saniye
+  Varyans: 1.846000
+  Standart Sapma: 1.3587
+----------------------------------------
+Simulated Annealing (5x5) [Params: {'max_iterations': 2000, 'initial_temp': 300, 'cooling_rate': 0.85}]:
+  Bulma Sayısı: 0
+  Bulamama Sayısı: 100
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0000 saniye
+  Medyan Bulma Süresi: 0.0000 saniye
+  Minimum Bulma Süresi: 0.0000 saniye
+  Maksimum Bulma Süresi: 0.0000 saniye
+  Varyans: 0.000000
+  Standart Sapma: 0.0000
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 2000, 'initial_temp': 300, 'cooling_rate': 0.85}]:
+  Bulma Sayısı: 97
+  Bulamama Sayısı: 3
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 1.0297 saniye
+  Medyan Bulma Süresi: 0.8474 saniye
+  Minimum Bulma Süresi: 0.0043 saniye
+  Maksimum Bulma Süresi: 3.6984 saniye
+  Varyans: 0.671375
+  Standart Sapma: 0.8194
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 2000, 'initial_temp': 300, 'cooling_rate': 0.85}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 3.2393 saniye
+  Medyan Bulma Süresi: 2.5302 saniye
+  Minimum Bulma Süresi: 0.0031 saniye
+  Maksimum Bulma Süresi: 14.4628 saniye
+  Varyans: 7.120417
+  Standart Sapma: 2.6684
+----------------------------------------
+
+Glider:
+Simulated Annealing (5x5) [Params: {'max_iterations': 1000, 'initial_temp': 100, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 60
+  Bulamama Sayısı: 40
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.1421 saniye
+  Medyan Bulma Süresi: 0.0942 saniye
+  Minimum Bulma Süresi: 0.0025 saniye
+  Maksimum Bulma Süresi: 0.4435 saniye
+  Varyans: 0.015109
+  Standart Sapma: 0.1229
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 1000, 'initial_temp': 100, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.1342 saniye
+  Medyan Bulma Süresi: 0.1039 saniye
+  Minimum Bulma Süresi: 0.0008 saniye
+  Maksimum Bulma Süresi: 0.7980 saniye
+  Varyans: 0.015939
+  Standart Sapma: 0.1262
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 1000, 'initial_temp': 100, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.3745 saniye
+  Medyan Bulma Süresi: 0.2807 saniye
+  Minimum Bulma Süresi: 0.0024 saniye
+  Maksimum Bulma Süresi: 1.2978 saniye
+  Varyans: 0.110066
+  Standart Sapma: 0.3318
+----------------------------------------
+Simulated Annealing (5x5) [Params: {'max_iterations': 1500, 'initial_temp': 100, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 57
+  Bulamama Sayısı: 43
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.2019 saniye
+  Medyan Bulma Süresi: 0.1059 saniye
+  Minimum Bulma Süresi: 0.0003 saniye
+  Maksimum Bulma Süresi: 0.6867 saniye
+  Varyans: 0.041985
+  Standart Sapma: 0.2049
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 1500, 'initial_temp': 100, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.1251 saniye
+  Medyan Bulma Süresi: 0.1176 saniye
+  Minimum Bulma Süresi: 0.0009 saniye
+  Maksimum Bulma Süresi: 0.3745 saniye
+  Varyans: 0.006824
+  Standart Sapma: 0.0826
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 1500, 'initial_temp': 100, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.2881 saniye
+  Medyan Bulma Süresi: 0.1971 saniye
+  Minimum Bulma Süresi: 0.0029 saniye
+  Maksimum Bulma Süresi: 1.0458 saniye
+  Varyans: 0.057619
+  Standart Sapma: 0.2400
+----------------------------------------
+Simulated Annealing (5x5) [Params: {'max_iterations': 1000, 'initial_temp': 200, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 53
+  Bulamama Sayısı: 47
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.1358 saniye
+  Medyan Bulma Süresi: 0.0841 saniye
+  Minimum Bulma Süresi: 0.0065 saniye
+  Maksimum Bulma Süresi: 0.5908 saniye
+  Varyans: 0.014998
+  Standart Sapma: 0.1225
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 1000, 'initial_temp': 200, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.1214 saniye
+  Medyan Bulma Süresi: 0.0970 saniye
+  Minimum Bulma Süresi: 0.0008 saniye
+  Maksimum Bulma Süresi: 0.4895 saniye
+  Varyans: 0.011495
+  Standart Sapma: 0.1072
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 1000, 'initial_temp': 200, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.3793 saniye
+  Medyan Bulma Süresi: 0.3152 saniye
+  Minimum Bulma Süresi: 0.0029 saniye
+  Maksimum Bulma Süresi: 1.4789 saniye
+  Varyans: 0.114914
+  Standart Sapma: 0.3390
+----------------------------------------
+Simulated Annealing (5x5) [Params: {'max_iterations': 1000, 'initial_temp': 100, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 53
+  Bulamama Sayısı: 47
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.1454 saniye
+  Medyan Bulma Süresi: 0.0860 saniye
+  Minimum Bulma Süresi: 0.0020 saniye
+  Maksimum Bulma Süresi: 0.5984 saniye
+  Varyans: 0.022952
+  Standart Sapma: 0.1515
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 1000, 'initial_temp': 100, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.1071 saniye
+  Medyan Bulma Süresi: 0.0809 saniye
+  Minimum Bulma Süresi: 0.0009 saniye
+  Maksimum Bulma Süresi: 0.4723 saniye
+  Varyans: 0.008990
+  Standart Sapma: 0.0948
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 1000, 'initial_temp': 100, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.3625 saniye
+  Medyan Bulma Süresi: 0.2967 saniye
+  Minimum Bulma Süresi: 0.0029 saniye
+  Maksimum Bulma Süresi: 1.5899 saniye
+  Varyans: 0.088863
+  Standart Sapma: 0.2981
+----------------------------------------
+Simulated Annealing (5x5) [Params: {'max_iterations': 1500, 'initial_temp': 200, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 67
+  Bulamama Sayısı: 33
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.1784 saniye
+  Medyan Bulma Süresi: 0.1202 saniye
+  Minimum Bulma Süresi: 0.0025 saniye
+  Maksimum Bulma Süresi: 0.6370 saniye
+  Varyans: 0.032310
+  Standart Sapma: 0.1797
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 1500, 'initial_temp': 200, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.1329 saniye
+  Medyan Bulma Süresi: 0.1100 saniye
+  Minimum Bulma Süresi: 0.0009 saniye
+  Maksimum Bulma Süresi: 0.5964 saniye
+  Varyans: 0.010114
+  Standart Sapma: 0.1006
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 1500, 'initial_temp': 200, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.3841 saniye
+  Medyan Bulma Süresi: 0.3116 saniye
+  Minimum Bulma Süresi: 0.0029 saniye
+  Maksimum Bulma Süresi: 2.0068 saniye
+  Varyans: 0.123363
+  Standart Sapma: 0.3512
+----------------------------------------
+Simulated Annealing (5x5) [Params: {'max_iterations': 1500, 'initial_temp': 100, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 57
+  Bulamama Sayısı: 43
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.2275 saniye
+  Medyan Bulma Süresi: 0.1268 saniye
+  Minimum Bulma Süresi: 0.0054 saniye
+  Maksimum Bulma Süresi: 0.7715 saniye
+  Varyans: 0.050998
+  Standart Sapma: 0.2258
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 1500, 'initial_temp': 100, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.1101 saniye
+  Medyan Bulma Süresi: 0.0970 saniye
+  Minimum Bulma Süresi: 0.0009 saniye
+  Maksimum Bulma Süresi: 0.4381 saniye
+  Varyans: 0.007660
+  Standart Sapma: 0.0875
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 1500, 'initial_temp': 100, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.3203 saniye
+  Medyan Bulma Süresi: 0.2362 saniye
+  Minimum Bulma Süresi: 0.0027 saniye
+  Maksimum Bulma Süresi: 1.1874 saniye
+  Varyans: 0.093715
+  Standart Sapma: 0.3061
+----------------------------------------
+Simulated Annealing (5x5) [Params: {'max_iterations': 1000, 'initial_temp': 200, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 57
+  Bulamama Sayısı: 43
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.1642 saniye
+  Medyan Bulma Süresi: 0.1249 saniye
+  Minimum Bulma Süresi: 0.0026 saniye
+  Maksimum Bulma Süresi: 0.4541 saniye
+  Varyans: 0.018983
+  Standart Sapma: 0.1378
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 1000, 'initial_temp': 200, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.1166 saniye
+  Medyan Bulma Süresi: 0.0691 saniye
+  Minimum Bulma Süresi: 0.0008 saniye
+  Maksimum Bulma Süresi: 0.7696 saniye
+  Varyans: 0.014445
+  Standart Sapma: 0.1202
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 1000, 'initial_temp': 200, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.3050 saniye
+  Medyan Bulma Süresi: 0.2141 saniye
+  Minimum Bulma Süresi: 0.0025 saniye
+  Maksimum Bulma Süresi: 2.2683 saniye
+  Varyans: 0.114218
+  Standart Sapma: 0.3380
+----------------------------------------
+Simulated Annealing (5x5) [Params: {'max_iterations': 1500, 'initial_temp': 200, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 54
+  Bulamama Sayısı: 46
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.1911 saniye
+  Medyan Bulma Süresi: 0.1387 saniye
+  Minimum Bulma Süresi: 0.0049 saniye
+  Maksimum Bulma Süresi: 0.8939 saniye
+  Varyans: 0.038742
+  Standart Sapma: 0.1968
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 1500, 'initial_temp': 200, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.1158 saniye
+  Medyan Bulma Süresi: 0.0899 saniye
+  Minimum Bulma Süresi: 0.0008 saniye
+  Maksimum Bulma Süresi: 0.4608 saniye
+  Varyans: 0.008658
+  Standart Sapma: 0.0930
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 1500, 'initial_temp': 200, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.2610 saniye
+  Medyan Bulma Süresi: 0.1928 saniye
+  Minimum Bulma Süresi: 0.0024 saniye
+  Maksimum Bulma Süresi: 1.0368 saniye
+  Varyans: 0.045956
+  Standart Sapma: 0.2144
+----------------------------------------
+Simulated Annealing (5x5) [Params: {'max_iterations': 500, 'initial_temp': 100, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 50
+  Bulamama Sayısı: 50
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0901 saniye
+  Medyan Bulma Süresi: 0.0809 saniye
+  Minimum Bulma Süresi: 0.0003 saniye
+  Maksimum Bulma Süresi: 0.2761 saniye
+  Varyans: 0.004586
+  Standart Sapma: 0.0677
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 500, 'initial_temp': 100, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.1458 saniye
+  Medyan Bulma Süresi: 0.1201 saniye
+  Minimum Bulma Süresi: 0.0009 saniye
+  Maksimum Bulma Süresi: 0.5189 saniye
+  Varyans: 0.014845
+  Standart Sapma: 0.1218
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 500, 'initial_temp': 100, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.2359 saniye
+  Medyan Bulma Süresi: 0.1687 saniye
+  Minimum Bulma Süresi: 0.0031 saniye
+  Maksimum Bulma Süresi: 1.3869 saniye
+  Varyans: 0.054011
+  Standart Sapma: 0.2324
+----------------------------------------
+Simulated Annealing (5x5) [Params: {'max_iterations': 2000, 'initial_temp': 300, 'cooling_rate': 0.85}]:
+  Bulma Sayısı: 52
+  Bulamama Sayısı: 48
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.1993 saniye
+  Medyan Bulma Süresi: 0.1238 saniye
+  Minimum Bulma Süresi: 0.0012 saniye
+  Maksimum Bulma Süresi: 0.8845 saniye
+  Varyans: 0.045696
+  Standart Sapma: 0.2138
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 2000, 'initial_temp': 300, 'cooling_rate': 0.85}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.1097 saniye
+  Medyan Bulma Süresi: 0.1035 saniye
+  Minimum Bulma Süresi: 0.0011 saniye
+  Maksimum Bulma Süresi: 0.4658 saniye
+  Varyans: 0.007582
+  Standart Sapma: 0.0871
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 2000, 'initial_temp': 300, 'cooling_rate': 0.85}]:
+  Bulma Sayısı: 100
+  Bulamama Sayısı: 0
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.3360 saniye
+  Medyan Bulma Süresi: 0.2785 saniye
+  Minimum Bulma Süresi: 0.0028 saniye
+  Maksimum Bulma Süresi: 1.4132 saniye
+  Varyans: 0.093015
+  Standart Sapma: 0.3050
+----------------------------------------
+
+Lightweight Spaceship:
+Simulated Annealing (5x5) [Params: {'max_iterations': 1000, 'initial_temp': 100, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 0
+  Bulamama Sayısı: 100
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0000 saniye
+  Medyan Bulma Süresi: 0.0000 saniye
+  Minimum Bulma Süresi: 0.0000 saniye
+  Maksimum Bulma Süresi: 0.0000 saniye
+  Varyans: 0.000000
+  Standart Sapma: 0.0000
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 1000, 'initial_temp': 100, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 7
+  Bulamama Sayısı: 93
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 1.8251 saniye
+  Medyan Bulma Süresi: 1.8444 saniye
+  Minimum Bulma Süresi: 0.9677 saniye
+  Maksimum Bulma Süresi: 2.7668 saniye
+  Varyans: 0.416776
+  Standart Sapma: 0.6456
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 1000, 'initial_temp': 100, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 36
+  Bulamama Sayısı: 64
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 6.6033 saniye
+  Medyan Bulma Süresi: 5.9115 saniye
+  Minimum Bulma Süresi: 1.2579 saniye
+  Maksimum Bulma Süresi: 12.7119 saniye
+  Varyans: 9.839449
+  Standart Sapma: 3.1368
+----------------------------------------
+Simulated Annealing (5x5) [Params: {'max_iterations': 1500, 'initial_temp': 100, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 0
+  Bulamama Sayısı: 100
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0000 saniye
+  Medyan Bulma Süresi: 0.0000 saniye
+  Minimum Bulma Süresi: 0.0000 saniye
+  Maksimum Bulma Süresi: 0.0000 saniye
+  Varyans: 0.000000
+  Standart Sapma: 0.0000
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 1500, 'initial_temp': 100, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 15
+  Bulamama Sayısı: 85
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 2.6221 saniye
+  Medyan Bulma Süresi: 2.6407 saniye
+  Minimum Bulma Süresi: 0.4565 saniye
+  Maksimum Bulma Süresi: 3.9908 saniye
+  Varyans: 0.962542
+  Standart Sapma: 0.9811
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 1500, 'initial_temp': 100, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 46
+  Bulamama Sayısı: 54
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 8.9589 saniye
+  Medyan Bulma Süresi: 8.3689 saniye
+  Minimum Bulma Süresi: 2.5957 saniye
+  Maksimum Bulma Süresi: 15.7893 saniye
+  Varyans: 12.800200
+  Standart Sapma: 3.5777
+----------------------------------------
+Simulated Annealing (5x5) [Params: {'max_iterations': 1000, 'initial_temp': 200, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 0
+  Bulamama Sayısı: 100
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0000 saniye
+  Medyan Bulma Süresi: 0.0000 saniye
+  Minimum Bulma Süresi: 0.0000 saniye
+  Maksimum Bulma Süresi: 0.0000 saniye
+  Varyans: 0.000000
+  Standart Sapma: 0.0000
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 1000, 'initial_temp': 200, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 8
+  Bulamama Sayısı: 92
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 2.0829 saniye
+  Medyan Bulma Süresi: 2.3541 saniye
+  Minimum Bulma Süresi: 0.6133 saniye
+  Maksimum Bulma Süresi: 3.0870 saniye
+  Varyans: 0.563850
+  Standart Sapma: 0.7509
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 1000, 'initial_temp': 200, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 25
+  Bulamama Sayısı: 75
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 8.5401 saniye
+  Medyan Bulma Süresi: 9.4822 saniye
+  Minimum Bulma Süresi: 2.3469 saniye
+  Maksimum Bulma Süresi: 13.3052 saniye
+  Varyans: 9.905341
+  Standart Sapma: 3.1473
+----------------------------------------
+Simulated Annealing (5x5) [Params: {'max_iterations': 1000, 'initial_temp': 100, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 0
+  Bulamama Sayısı: 100
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0000 saniye
+  Medyan Bulma Süresi: 0.0000 saniye
+  Minimum Bulma Süresi: 0.0000 saniye
+  Maksimum Bulma Süresi: 0.0000 saniye
+  Varyans: 0.000000
+  Standart Sapma: 0.0000
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 1000, 'initial_temp': 100, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 13
+  Bulamama Sayısı: 87
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 1.5897 saniye
+  Medyan Bulma Süresi: 1.5108 saniye
+  Minimum Bulma Süresi: 0.0959 saniye
+  Maksimum Bulma Süresi: 2.9770 saniye
+  Varyans: 0.790540
+  Standart Sapma: 0.8891
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 1000, 'initial_temp': 100, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 34
+  Bulamama Sayısı: 66
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 7.5563 saniye
+  Medyan Bulma Süresi: 7.4805 saniye
+  Minimum Bulma Süresi: 3.2060 saniye
+  Maksimum Bulma Süresi: 11.7395 saniye
+  Varyans: 4.886489
+  Standart Sapma: 2.2105
+----------------------------------------
+Simulated Annealing (5x5) [Params: {'max_iterations': 1500, 'initial_temp': 200, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 0
+  Bulamama Sayısı: 100
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0000 saniye
+  Medyan Bulma Süresi: 0.0000 saniye
+  Minimum Bulma Süresi: 0.0000 saniye
+  Maksimum Bulma Süresi: 0.0000 saniye
+  Varyans: 0.000000
+  Standart Sapma: 0.0000
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 1500, 'initial_temp': 200, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 18
+  Bulamama Sayısı: 82
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 2.1892 saniye
+  Medyan Bulma Süresi: 2.4191 saniye
+  Minimum Bulma Süresi: 0.0435 saniye
+  Maksimum Bulma Süresi: 4.0409 saniye
+  Varyans: 1.387627
+  Standart Sapma: 1.1780
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 1500, 'initial_temp': 200, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 46
+  Bulamama Sayısı: 54
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 8.5573 saniye
+  Medyan Bulma Süresi: 7.9563 saniye
+  Minimum Bulma Süresi: 1.8930 saniye
+  Maksimum Bulma Süresi: 17.9646 saniye
+  Varyans: 15.978162
+  Standart Sapma: 3.9973
+----------------------------------------
+Simulated Annealing (5x5) [Params: {'max_iterations': 1500, 'initial_temp': 100, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 0
+  Bulamama Sayısı: 100
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0000 saniye
+  Medyan Bulma Süresi: 0.0000 saniye
+  Minimum Bulma Süresi: 0.0000 saniye
+  Maksimum Bulma Süresi: 0.0000 saniye
+  Varyans: 0.000000
+  Standart Sapma: 0.0000
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 1500, 'initial_temp': 100, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 17
+  Bulamama Sayısı: 83
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 1.4179 saniye
+  Medyan Bulma Süresi: 1.1281 saniye
+  Minimum Bulma Süresi: 0.3421 saniye
+  Maksimum Bulma Süresi: 3.4732 saniye
+  Varyans: 0.773806
+  Standart Sapma: 0.8797
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 1500, 'initial_temp': 100, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 48
+  Bulamama Sayısı: 52
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 8.9294 saniye
+  Medyan Bulma Süresi: 8.7838 saniye
+  Minimum Bulma Süresi: 1.6615 saniye
+  Maksimum Bulma Süresi: 16.7985 saniye
+  Varyans: 16.348152
+  Standart Sapma: 4.0433
+----------------------------------------
+Simulated Annealing (5x5) [Params: {'max_iterations': 1000, 'initial_temp': 200, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 0
+  Bulamama Sayısı: 100
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0000 saniye
+  Medyan Bulma Süresi: 0.0000 saniye
+  Minimum Bulma Süresi: 0.0000 saniye
+  Maksimum Bulma Süresi: 0.0000 saniye
+  Varyans: 0.000000
+  Standart Sapma: 0.0000
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 1000, 'initial_temp': 200, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 12
+  Bulamama Sayısı: 88
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 1.5062 saniye
+  Medyan Bulma Süresi: 1.5101 saniye
+  Minimum Bulma Süresi: 0.3383 saniye
+  Maksimum Bulma Süresi: 3.0167 saniye
+  Varyans: 0.777299
+  Standart Sapma: 0.8816
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 1000, 'initial_temp': 200, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 34
+  Bulamama Sayısı: 66
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 7.0787 saniye
+  Medyan Bulma Süresi: 7.4116 saniye
+  Minimum Bulma Süresi: 2.1386 saniye
+  Maksimum Bulma Süresi: 12.3028 saniye
+  Varyans: 7.767258
+  Standart Sapma: 2.7870
+----------------------------------------
+Simulated Annealing (5x5) [Params: {'max_iterations': 1500, 'initial_temp': 200, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 0
+  Bulamama Sayısı: 100
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0000 saniye
+  Medyan Bulma Süresi: 0.0000 saniye
+  Minimum Bulma Süresi: 0.0000 saniye
+  Maksimum Bulma Süresi: 0.0000 saniye
+  Varyans: 0.000000
+  Standart Sapma: 0.0000
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 1500, 'initial_temp': 200, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 16
+  Bulamama Sayısı: 84
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 2.5409 saniye
+  Medyan Bulma Süresi: 2.8844 saniye
+  Minimum Bulma Süresi: 0.3947 saniye
+  Maksimum Bulma Süresi: 4.2547 saniye
+  Varyans: 1.733697
+  Standart Sapma: 1.3167
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 1500, 'initial_temp': 200, 'cooling_rate': 0.9}]:
+  Bulma Sayısı: 45
+  Bulamama Sayısı: 55
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 9.6574 saniye
+  Medyan Bulma Süresi: 9.6236 saniye
+  Minimum Bulma Süresi: 1.5868 saniye
+  Maksimum Bulma Süresi: 18.1808 saniye
+  Varyans: 25.185408
+  Standart Sapma: 5.0185
+----------------------------------------
+Simulated Annealing (5x5) [Params: {'max_iterations': 500, 'initial_temp': 100, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 0
+  Bulamama Sayısı: 100
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0000 saniye
+  Medyan Bulma Süresi: 0.0000 saniye
+  Minimum Bulma Süresi: 0.0000 saniye
+  Maksimum Bulma Süresi: 0.0000 saniye
+  Varyans: 0.000000
+  Standart Sapma: 0.0000
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 500, 'initial_temp': 100, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 8
+  Bulamama Sayısı: 92
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.8926 saniye
+  Medyan Bulma Süresi: 0.7910 saniye
+  Minimum Bulma Süresi: 0.4655 saniye
+  Maksimum Bulma Süresi: 1.3363 saniye
+  Varyans: 0.077245
+  Standart Sapma: 0.2779
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 500, 'initial_temp': 100, 'cooling_rate': 0.95}]:
+  Bulma Sayısı: 14
+  Bulamama Sayısı: 86
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 4.9599 saniye
+  Medyan Bulma Süresi: 5.2638 saniye
+  Minimum Bulma Süresi: 2.1132 saniye
+  Maksimum Bulma Süresi: 7.4874 saniye
+  Varyans: 1.932015
+  Standart Sapma: 1.3900
+----------------------------------------
+Simulated Annealing (5x5) [Params: {'max_iterations': 2000, 'initial_temp': 300, 'cooling_rate': 0.85}]:
+  Bulma Sayısı: 0
+  Bulamama Sayısı: 100
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 0.0000 saniye
+  Medyan Bulma Süresi: 0.0000 saniye
+  Minimum Bulma Süresi: 0.0000 saniye
+  Maksimum Bulma Süresi: 0.0000 saniye
+  Varyans: 0.000000
+  Standart Sapma: 0.0000
+----------------------------------------
+Simulated Annealing (10x10) [Params: {'max_iterations': 2000, 'initial_temp': 300, 'cooling_rate': 0.85}]:
+  Bulma Sayısı: 21
+  Bulamama Sayısı: 79
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 2.4786 saniye
+  Medyan Bulma Süresi: 1.8619 saniye
+  Minimum Bulma Süresi: 0.3161 saniye
+  Maksimum Bulma Süresi: 5.3640 saniye
+  Varyans: 2.782376
+  Standart Sapma: 1.6680
+----------------------------------------
+Simulated Annealing (20x20) [Params: {'max_iterations': 2000, 'initial_temp': 300, 'cooling_rate': 0.85}]:
+  Bulma Sayısı: 50
+  Bulamama Sayısı: 50
+  Ortalama Bulma Süresi (sadece başarılı denemeler): 11.2637 saniye
+  Medyan Bulma Süresi: 10.3267 saniye
+  Minimum Bulma Süresi: 0.7482 saniye
+  Maksimum Bulma Süresi: 22.5946 saniye
+  Varyans: 32.219965
+  Standart Sapma: 5.6763
+----------------------------------------

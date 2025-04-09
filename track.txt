@@ -1,0 +1,75 @@
+arama_algoritmaları_7.py:
+daha karmaşık bir desen olan boat, std'ye ek olarak daha fazla istatistik
+
+arama_algoritmaları_8.py:
+daha karmaşık bir desen olan block cluster, aranan desenin boyutu için başlanguç boyut kontrolü
+
+arama_algoritmaları_9.py:
+daha karmaşık bir desen olan spaceship, 5x5(kaydırma yok), 10x10(6x6 kaydırma pozisyonu), 20x20(16x16 kaydırma pozisyonu)
+
+arama_algoritmaları_10.py:
+9 ile aynı ama multiprocessing ile paralelleştirilmiş
+Tüm algoritmaların 100 deneme testi paralel
+GA: Popülasyon değerlendirmesi paralel (pool.map ile)
+HC ve SA: Komşu değerlendirmeleri zaten az sayıda (HC’de en iyiyi bulmak, SA’da tek bir komşu), 
+ama yine de 100 deneme paralel olduğu için yeterli hız sağlanıyor.
+LBS: Her ışının komşularını ayrı süreçlerde değerlendirelim.
+
+arama_algoritmaları_11.py: Spaceship
+-NumPy ile Vektörizasyon:
+next_generation fonksiyonu, NumPy ile vektörize edildi. Bu, döngüleri kaldırarak simülasyon hızını artırır.
+-Ön Bellekleme:
+evolve_grid, @lru_cache ile önbelleğe alındı. Aynı ızgaralar tekrar hesaplanmaz, bu da özellikle LBS ve GA’da tekrarlanan değerlendirmeleri hızlandırır.
+-Paralelleştirme:
+100 deneme testi, ana Pool ile paralel çalışıyor. Algoritmaların iç döngüleri sıralı, ama NumPy ve önbellekleme ile zaten hızlandı.
+
+arama_algoritmaları_12.py
+11 gibi ama concurrent.futures.ProcessPoolExecutor kullanarak Genetic Algorithm (GA) ve Local Beam Search (LBS)’nin iç döngülerini paralelleştirdik
+
+arama_algoritmaları_21.py
+Optimize halde 12 gibi ama boat deseni
+
+arama_algoritmaları_30.py
+7 gibi ama glider (spaceship)
+
+arama_algoritmaları_31.py
+sadece tek yöndeki glider(spaceship)
+
+arama_algoritmaları_32.py
+31'e ek olarak 20x20 de var ve boat, 4x4 block ve glider kontrol ediyor
+
+arama_algoritmaları_33.py
+32 ama loglu
+
+arama_algoritmaları_34.py ++++++++++
+33 ama 100 adet çalıştırılma paralelleştirilmiş
+
+arama_algoritmaları_35.py
+aç gözlü en iyi öncelikli arama için yalnızca
+
+arama_algoritmaları_36.py ++++++++++++++++++++++++++++++++++++++++ hiperparametre ayarlaması olmadanki son hali
+34 ama lwss ekli hali, her şeyi yazdırıyor, her şeyi deniyor
+
+arama_algoritmaları_37.py
+hiperparametre oynamaları,
+
+arama_algoritmaları_38_ga.py
+hipermarametre, ga için
+
+arama_algoritmaları_39_lbs.py
+hipermarametre, lbs için
+
+arama_algoritmaları_40_ga_all.py
+tüm desenler, 9 hiperparametre kombinasyonu
+
+arama_algoritmaları_ga_hyperparam_all_file.py
+dosyaya kaydeder
+
+arama_algoritmaları_lbs_hyperparam_all_file.py
+dosyaya kaydeder
+
+arama_algoritmaları_sa_hyperparam_all_file.py
+dosyaya kaydeder
+
+arama_algoritmaları_hc_hyperparam_all_file.py
+dosyaya kaydeder
